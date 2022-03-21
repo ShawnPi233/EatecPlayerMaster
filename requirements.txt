@@ -1,0 +1,9 @@
+JayDeBeApi==1.2.3
+progressbar33==2.4
+PyQt5==5.15.6
+pysrt==1.1.2
+pywin32==228
+qtmodern==0.2.0
+textrank4zh==0.3
+win32gui==221.6
+progressbar
