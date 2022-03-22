@@ -1,10 +1,6 @@
 """
+@Author:ShawnPi & HUANG RUI
 EatecPlayer——A multifunctional video player based on PyQt5(食课——基于PyQt5的多功能视频播放器)
-用户注册登录，添加普通用户、VIP 用户以及管理员用户，分别给予不同权限。
-本地视频播放器，包括播放暂停、控制进度、控制音量、开启全屏等。
-视频同步笔记，可以导入视频截图和外部图片，修改笔记字体等。
-视频播放和笔记数据统计，以及账户信息管理与显示。
-语音识别生成视频字幕和生成字幕关键词
 """
 from PyQt5.QtGui import *
 from GUI3 import Ui_MainWindow
